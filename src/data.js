@@ -1993,6 +1993,21 @@ const movies = [
     score: 8
   },
   {
+    title: 'Dog Day Afternoon',
+    year: 1975,
+    director: 'Sidney Lumet',
+    duration: '2h 5min',
+    genre: ['Peluso'],
+  },
+  {
+    title: 'Dog Day Afternoon',
+    year: 1975,
+    director: 'Sidney Lumet',
+    duration: '2h 5min',
+    genre: ['Peluso'],
+    score: 6
+  },
+  {
     title: 'Dead Poets Society',
     year: 1989,
     director: 'Peter Weir',
